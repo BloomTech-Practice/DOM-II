@@ -34,7 +34,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.6",
+    "npm": "^8.12.2"
   },
   "repository": {
     "type": "git",
